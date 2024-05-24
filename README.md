@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/a047fb6e-9bc2-4a9c-9f4e-23dc0d89315b" width="400">
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/a047fb6e-9bc2-4a9c-9f4e-23dc0d89315b" width="200">
       </td>
       <td>
         <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/6cb0f90f-80c7-4dca-aa2f-bb484680b2cb"  width="400">
