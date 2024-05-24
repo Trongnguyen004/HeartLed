@@ -1,7 +1,7 @@
 ## HeartLed chưa được hoàn thiện 100% vì còn vướng về khâu tiết kiệm năng lượng khi sử dụng các pin CR2032, LIR2032,...
 ## Vì giới hạn về mặt kiến thức lập trình nên hiện tại chỉ làm được đó.
 
-### #Lên ý tưởng, thiết kế 
+### #Design 
 <p align="center">
   <table>
     <tr>
