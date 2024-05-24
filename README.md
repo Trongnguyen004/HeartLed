@@ -1,6 +1,6 @@
 # HeartLed
 
-### #Quá trình thiết kế 
+### #Lên ý tưởng thiết kế 
 <p align="center">
   <table>
     <tr>
