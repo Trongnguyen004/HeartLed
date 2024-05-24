@@ -37,13 +37,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/7a31ca8a-16d1-4311-aa3d-ac6791a85451" width="400">
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/7a31ca8a-16d1-4311-aa3d-ac6791a85451" width="300">
       </td>
       <td>
-        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/33bbbbb3-ec34-4b4c-ba9e-6c7e20d30f75"  width="400">
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/33bbbbb3-ec34-4b4c-ba9e-6c7e20d30f75"  width="300">
       </td>
       <td>
-        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/cd955643-7a9c-4f80-9ced-086b5bafc294"  width="400">
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/cd955643-300">
       </td>
     </tr>
   </table>
