@@ -4,9 +4,9 @@ https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9
 
 https://github.com/Trongnguyen004/HeartLed/assets/137270832/5ad59888-f046-4cde-adbe-0e13fbfc24e3
 
-<video width="300" controls>
-  <source src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/5ad59888-f046-4cde-adbe-0e13fbfc24e3" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+## Các bước tiến hành 
+### 1. Chọn khung
+### 2. Thiết kế sơ đồ nguyên lý
+### 3. Vẽ layout
+### 4. Hoàn thiện 
 
