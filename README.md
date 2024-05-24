@@ -1,10 +1,11 @@
 # HeartLed
 
 <p align="center">
-    <video width="300" controls>
-        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9db8-90237cea7051" type="video/mp4">
-    </video>
+    <a href="https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9db8-90237cea7051">
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9db8-90237cea7051" width="500">
+    </a>
 </p>
+
 
 
 
