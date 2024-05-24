@@ -18,7 +18,7 @@
   </table>
 </p>
 
-### #3D
+### #3D View
 <p align="center">
   <table>
     <tr>
