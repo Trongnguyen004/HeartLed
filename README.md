@@ -28,6 +28,9 @@
       <td>
         <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/942c4505-0a7b-4dc6-8f47-6afe9bda2bb3"  width="400">
       </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/0f1cc1c4-1dc5-480a-995b-1c2542e2435b"  width="400">
+      </td>
     </tr>
   </table>
 </p>
