@@ -4,11 +4,22 @@ https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9
 
 https://github.com/Trongnguyen004/HeartLed/assets/137270832/5ad59888-f046-4cde-adbe-0e13fbfc24e3
 
-## Các bước tiến hành 
-### 1. Chọn khung
-### 2. Thiết kế sơ đồ nguyên lý
-### 3. Vẽ layout
-### 4. Hoàn thiện 
+### #
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/a047fb6e-9bc2-4a9c-9f4e-23dc0d89315b" width="400">
+      </td>
+      <td>
+        <img src="![Schematic](https://github.com/Trongnguyen004/HeartLed/assets/137270832/6cb0f90f-80c7-4dca-aa2f-bb484680b2cb)"  width="400">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/7e35a8c7-8c3b-45da-b485-09fb7822413e"  width="400">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ![heart](https://github.com/Trongnguyen004/HeartLed/assets/137270832/a047fb6e-9bc2-4a9c-9f4e-23dc0d89315b)
 ![Schematic](https://github.com/Trongnguyen004/HeartLed/assets/137270832/6cb0f90f-80c7-4dca-aa2f-bb484680b2cb)
