@@ -1,6 +1,6 @@
 # HeartLed
 
-### #
+### #Quá trình thiết kế 
 <p align="center">
   <table>
     <tr>
@@ -17,7 +17,7 @@
   </table>
 </p>
 
-### #
+### #3D
 <p align="center">
   <table>
     <tr>
@@ -32,7 +32,7 @@
 </p>
 
 
-### #
+### #Thành phẩm 
 <p align="center">
   <table>
     <tr>
@@ -49,6 +49,6 @@
   </table>
 </p>
 
-### #
+### #Video
 https://github.com/Trongnguyen004/HeartLed/assets/137270832/59e95ee1-c4d1-4318-9db8-90237cea7051
 https://github.com/Trongnguyen004/HeartLed/assets/137270832/5ad59888-f046-4cde-adbe-0e13fbfc24e3
