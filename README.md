@@ -21,10 +21,34 @@ https://github.com/Trongnguyen004/HeartLed/assets/137270832/5ad59888-f046-4cde-a
   </table>
 </p>
 
+### #
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/770bbeb3-b1fb-41ff-8af0-4942ada6006a" width="400">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/942c4505-0a7b-4dc6-8f47-6afe9bda2bb3"  width="400">
+      </td>
+    </tr>
+  </table>
+</p>
 
-![panel](https://github.com/Trongnguyen004/HeartLed/assets/137270832/770bbeb3-b1fb-41ff-8af0-4942ada6006a)
-![Heart đơn](https://github.com/Trongnguyen004/HeartLed/assets/137270832/942c4505-0a7b-4dc6-8f47-6afe9bda2bb3)
-![2](https://github.com/Trongnguyen004/HeartLed/assets/137270832/7a31ca8a-16d1-4311-aa3d-ac6791a85451)
-![body board](https://github.com/Trongnguyen004/HeartLed/assets/137270832/33bbbbb3-ec34-4b4c-ba9e-6c7e20d30f75)
-![1](https://github.com/Trongnguyen004/HeartLed/assets/137270832/cd955643-7a9c-4f80-9ced-086b5bafc294)
 
+### #
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/7a31ca8a-16d1-4311-aa3d-ac6791a85451" width="400">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/33bbbbb3-ec34-4b4c-ba9e-6c7e20d30f75"  width="400">
+      </td>
+      <td>
+        <img src="https://github.com/Trongnguyen004/HeartLed/assets/137270832/cd955643-7a9c-4f80-9ced-086b5bafc294"  width="400">
+      </td>
+    </tr>
+  </table>
+</p>
