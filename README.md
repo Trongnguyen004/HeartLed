@@ -1,5 +1,5 @@
-## HeartLed chưa được hoàn thiện 100% vì còn vướng về khâu tiết kiệm năng lượng vì sử dụng các pin CR2032, LIR2032, các loại pin có kích thước nhỏ mới phù hợp để làm 1 chiếc móc khóa.
-## Vì giới hạn về mặt kiến thức lập trình nên hiện tại chưa thể can thiệp sâu vào các chế độ ngủ của chip. Vậy nên vấn đề trên sẽ được cải thiện dần trong thời gian tới.
+### HeartLed chưa được hoàn thiện 100% vì còn vướng về khâu tiết kiệm năng lượng vì sử dụng các pin CR2032, LIR2032, các loại pin có kích thước nhỏ mới phù hợp để làm 1 chiếc móc khóa.
+### Vì giới hạn về mặt kiến thức lập trình nên hiện tại chưa thể can thiệp sâu vào các chế độ ngủ của chip. Vậy nên vấn đề trên sẽ được cải thiện dần trong thời gian tới.
 
 ### #Design 
 <p align="center">
